@@ -1,0 +1,4 @@
+dataset/
+
+# YOLO training outputs
+runs/
